@@ -1,2 +1,3 @@
 # spacemacs-cheats
-Cheat Sheet for common keybindings in spacemacs
+## Cheat Sheet for common keybindings in spacemacs
+
