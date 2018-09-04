@@ -18,7 +18,7 @@ CTRL Z
 ### PYTHON Spacemacs Bindings
 
 * SPC m s i -starts python REPL
-* SPC m s b -send buffer to REPL
+* SPC m s b -send entire buffer to REPL
 
 
 
