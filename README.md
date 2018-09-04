@@ -16,9 +16,10 @@ CTRL Z
 * SPC TAB aletnate windows
 
 ### Python Spacemacs Bindings
-* SPC m s i -starts python REPL
-* SPC m s b -send entire buffer to REPL
+* SPC m s i - starts python REPL
+* SPC m s b - send entire buffer to REPL
 * SPC m l   - starts live coding code (code on 1 window while results shown on the other window)
+* , h h     - show documents of built in function 
 
 ### File Directory Tree
 * SPC f T
