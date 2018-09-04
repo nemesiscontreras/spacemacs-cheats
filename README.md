@@ -12,10 +12,14 @@ CTRL Z
 
 ### Setting up Text Double Sided Window:
 * SPC w /
-* SPC f f 
-   to find a text file for one window the same for the other window
-   
+* Find your text file you want to edit    
 * SPC TAB aletnate windows
+
+### PYTHON Spacemacs Bindings
+
+* SPC m s i -starts python REPL
+* SPC m s b -send buffer to REPL
+
 
 
 
