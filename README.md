@@ -1,10 +1,10 @@
-# spacemacs-cheats
-## Cheat Sheet for common keybindings in *Spacemacs*
+# Spacemacs-Cheats
+## Cheat Sheet for Common Keybindings in *Spacemacs*
 
 Attached is my .spacemacs file as is right now.
 
 
-### General hot keys:
+### General Hot Keys:
 
 Switch between Vim/Emacs mode with
 CTRL Z
@@ -15,18 +15,18 @@ CTRL Z
 * Find your text file you want to edit    
 * SPC TAB aletnate windows
 
-### PYTHON Spacemacs Bindings
+### Python Spacemacs Bindings
 * SPC m s i -starts python REPL
 * SPC m s b -send entire buffer to REPL
 * SPC m l   - starts live coding code (code on 1 window while results shown on the other window)
 
 
-### VIM SEARCH TEXT
+### Vim Search Text
 * / KEYWORD
 * N search previous
 * n search next
 
-### Searching in a project directory grep
+### Searching in a Project Directory grep
 * SPC s g b -space grep 
 
 
