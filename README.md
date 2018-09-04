@@ -16,9 +16,18 @@ CTRL Z
 * SPC TAB aletnate windows
 
 ### PYTHON Spacemacs Bindings
-
 * SPC m s i -starts python REPL
 * SPC m s b -send entire buffer to REPL
+* SPC m l   - starts live coding code (code on 1 window while results shown on the other window)
+
+
+### VIM SEARCH TEXT
+* / KEYWORD
+* N search previous
+* n search next
+
+### Searching in a project directory grep
+* SPC s g b -space grep 
 
 
 
