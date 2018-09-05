@@ -20,6 +20,7 @@ CTRL Z
 * SPC m s b - send entire buffer to REPL
 * SPC m l   - starts live coding code (code on 1 window while results shown on the other window)
 * , h h     - show documents of built in function 
+* , g a     - show anaconda assignment of a var,func etc
 
 ### File Directory Tree
 * SPC f T
