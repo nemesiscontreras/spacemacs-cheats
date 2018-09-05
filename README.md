@@ -6,8 +6,9 @@ Attached is my .spacemacs file as is right now.
 
 ### General Hot Keys:
 
-Switch between Vim/Emacs mode with
-CTRL Z
+
+* CTRL Z    - Switch between Vim/Emacs mode with
+* SPC f e R - Sync conf after editing the .spacemacs file 
 
 
 ### Setting up Text Double Sided Window:
